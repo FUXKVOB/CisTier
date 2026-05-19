@@ -4,7 +4,7 @@ WIDTH, HEIGHT = 1140, 780
 SKIN_PATH = "reqwai.png"
 SWORD_ICON_PATH = "Diamond_Sword_JE3_BE3.png"
 TESTER_AVATAR_PATH = "tirtester.png"
-FONT_PATH = "arialmt.ttf"
+FONT_PATH = "Inter_24pt-Bold.ttf"
 OUTPUT_PATH = "reqwai_result.png"
 
 PLAYER_NAME = "reqwai"
